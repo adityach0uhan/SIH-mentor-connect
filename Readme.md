@@ -46,11 +46,6 @@ Mentor Connect aims to significantly improve the professional development of can
 - **MongoDB:** For managing user data, appointments, and communications.
 - **JWT (JSON Web Tokens):** For secure user authentication.
 
-### DevOps:
-- **Docker:** For containerization and easy deployment.
-- **NGINX:** For reverse proxy and serving static files.
-- **GitHub Actions:** For continuous integration and deployment.
-- **Heroku/Vercel:** For deployment and hosting of the platform.
 
 ## Deployment Plan
 
@@ -93,18 +88,6 @@ Mentor Connect aims to significantly improve the professional development of can
      npm start
      ```
 
-### Docker Deployment:
-- **Build and Run Containers:**
-  ```bash
-  docker-compose up --build
-  ```
-
-- This will start the backend, frontend, and MongoDB containers.
-
-### Production Deployment:
-- **Backend:** Deploy to Heroku or any cloud provider.
-- **Frontend:** Deploy to Vercel or similar platform.
-- **Database:** Use MongoDB Atlas for a cloud-hosted database.
 
 ## Future Enhancements
 - **AI-Driven Mentor Matching:** Implement algorithms to suggest mentors based on mentee profiles.
