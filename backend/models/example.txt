@@ -1,0 +1,6 @@
+use 
+
+user.model.js 
+signup.model.js 
+
+like format for file naming
