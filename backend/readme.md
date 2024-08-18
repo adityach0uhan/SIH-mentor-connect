@@ -1,7 +1,3 @@
-Sure! Here's an outline for creating separate `README.md` files for both the frontend and backend of your mentoring platform project.
-
----
-
 ## Backend (`README.md`)
 
 ### Project Overview
